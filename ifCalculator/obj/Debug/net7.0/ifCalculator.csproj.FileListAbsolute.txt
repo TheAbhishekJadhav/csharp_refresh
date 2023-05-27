@@ -1,0 +1,15 @@
+/Users/Abhishek/DotNetProjects/ifCalculator/bin/Debug/net7.0/ifCalculator
+/Users/Abhishek/DotNetProjects/ifCalculator/bin/Debug/net7.0/ifCalculator.deps.json
+/Users/Abhishek/DotNetProjects/ifCalculator/bin/Debug/net7.0/ifCalculator.runtimeconfig.json
+/Users/Abhishek/DotNetProjects/ifCalculator/bin/Debug/net7.0/ifCalculator.dll
+/Users/Abhishek/DotNetProjects/ifCalculator/bin/Debug/net7.0/ifCalculator.pdb
+/Users/Abhishek/DotNetProjects/ifCalculator/obj/Debug/net7.0/ifCalculator.csproj.AssemblyReference.cache
+/Users/Abhishek/DotNetProjects/ifCalculator/obj/Debug/net7.0/ifCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Abhishek/DotNetProjects/ifCalculator/obj/Debug/net7.0/ifCalculator.AssemblyInfoInputs.cache
+/Users/Abhishek/DotNetProjects/ifCalculator/obj/Debug/net7.0/ifCalculator.AssemblyInfo.cs
+/Users/Abhishek/DotNetProjects/ifCalculator/obj/Debug/net7.0/ifCalculator.csproj.CoreCompileInputs.cache
+/Users/Abhishek/DotNetProjects/ifCalculator/obj/Debug/net7.0/ifCalculator.dll
+/Users/Abhishek/DotNetProjects/ifCalculator/obj/Debug/net7.0/refint/ifCalculator.dll
+/Users/Abhishek/DotNetProjects/ifCalculator/obj/Debug/net7.0/ifCalculator.pdb
+/Users/Abhishek/DotNetProjects/ifCalculator/obj/Debug/net7.0/ifCalculator.genruntimeconfig.cache
+/Users/Abhishek/DotNetProjects/ifCalculator/obj/Debug/net7.0/ref/ifCalculator.dll

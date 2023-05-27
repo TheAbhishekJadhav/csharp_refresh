@@ -1,0 +1,15 @@
+/Users/Abhishek/DotNetProjects/ifStatements/bin/Debug/net7.0/ifStatements
+/Users/Abhishek/DotNetProjects/ifStatements/bin/Debug/net7.0/ifStatements.deps.json
+/Users/Abhishek/DotNetProjects/ifStatements/bin/Debug/net7.0/ifStatements.runtimeconfig.json
+/Users/Abhishek/DotNetProjects/ifStatements/bin/Debug/net7.0/ifStatements.dll
+/Users/Abhishek/DotNetProjects/ifStatements/bin/Debug/net7.0/ifStatements.pdb
+/Users/Abhishek/DotNetProjects/ifStatements/obj/Debug/net7.0/ifStatements.csproj.AssemblyReference.cache
+/Users/Abhishek/DotNetProjects/ifStatements/obj/Debug/net7.0/ifStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Abhishek/DotNetProjects/ifStatements/obj/Debug/net7.0/ifStatements.AssemblyInfoInputs.cache
+/Users/Abhishek/DotNetProjects/ifStatements/obj/Debug/net7.0/ifStatements.AssemblyInfo.cs
+/Users/Abhishek/DotNetProjects/ifStatements/obj/Debug/net7.0/ifStatements.csproj.CoreCompileInputs.cache
+/Users/Abhishek/DotNetProjects/ifStatements/obj/Debug/net7.0/ifStatements.dll
+/Users/Abhishek/DotNetProjects/ifStatements/obj/Debug/net7.0/refint/ifStatements.dll
+/Users/Abhishek/DotNetProjects/ifStatements/obj/Debug/net7.0/ifStatements.pdb
+/Users/Abhishek/DotNetProjects/ifStatements/obj/Debug/net7.0/ifStatements.genruntimeconfig.cache
+/Users/Abhishek/DotNetProjects/ifStatements/obj/Debug/net7.0/ref/ifStatements.dll
