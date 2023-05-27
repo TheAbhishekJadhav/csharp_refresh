@@ -1,0 +1,15 @@
+/Users/Abhishek/DotNetProjects/StaticMethodClass/bin/Debug/net7.0/StaticMethodClass
+/Users/Abhishek/DotNetProjects/StaticMethodClass/bin/Debug/net7.0/StaticMethodClass.deps.json
+/Users/Abhishek/DotNetProjects/StaticMethodClass/bin/Debug/net7.0/StaticMethodClass.runtimeconfig.json
+/Users/Abhishek/DotNetProjects/StaticMethodClass/bin/Debug/net7.0/StaticMethodClass.dll
+/Users/Abhishek/DotNetProjects/StaticMethodClass/bin/Debug/net7.0/StaticMethodClass.pdb
+/Users/Abhishek/DotNetProjects/StaticMethodClass/obj/Debug/net7.0/StaticMethodClass.csproj.AssemblyReference.cache
+/Users/Abhishek/DotNetProjects/StaticMethodClass/obj/Debug/net7.0/StaticMethodClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Abhishek/DotNetProjects/StaticMethodClass/obj/Debug/net7.0/StaticMethodClass.AssemblyInfoInputs.cache
+/Users/Abhishek/DotNetProjects/StaticMethodClass/obj/Debug/net7.0/StaticMethodClass.AssemblyInfo.cs
+/Users/Abhishek/DotNetProjects/StaticMethodClass/obj/Debug/net7.0/StaticMethodClass.csproj.CoreCompileInputs.cache
+/Users/Abhishek/DotNetProjects/StaticMethodClass/obj/Debug/net7.0/StaticMethodClass.dll
+/Users/Abhishek/DotNetProjects/StaticMethodClass/obj/Debug/net7.0/refint/StaticMethodClass.dll
+/Users/Abhishek/DotNetProjects/StaticMethodClass/obj/Debug/net7.0/StaticMethodClass.pdb
+/Users/Abhishek/DotNetProjects/StaticMethodClass/obj/Debug/net7.0/StaticMethodClass.genruntimeconfig.cache
+/Users/Abhishek/DotNetProjects/StaticMethodClass/obj/Debug/net7.0/ref/StaticMethodClass.dll
