@@ -1,0 +1,15 @@
+/Users/Abhishek/DotNetProjects/Comments/bin/Debug/net7.0/Comments
+/Users/Abhishek/DotNetProjects/Comments/bin/Debug/net7.0/Comments.deps.json
+/Users/Abhishek/DotNetProjects/Comments/bin/Debug/net7.0/Comments.runtimeconfig.json
+/Users/Abhishek/DotNetProjects/Comments/bin/Debug/net7.0/Comments.dll
+/Users/Abhishek/DotNetProjects/Comments/bin/Debug/net7.0/Comments.pdb
+/Users/Abhishek/DotNetProjects/Comments/obj/Debug/net7.0/Comments.csproj.AssemblyReference.cache
+/Users/Abhishek/DotNetProjects/Comments/obj/Debug/net7.0/Comments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Abhishek/DotNetProjects/Comments/obj/Debug/net7.0/Comments.AssemblyInfoInputs.cache
+/Users/Abhishek/DotNetProjects/Comments/obj/Debug/net7.0/Comments.AssemblyInfo.cs
+/Users/Abhishek/DotNetProjects/Comments/obj/Debug/net7.0/Comments.csproj.CoreCompileInputs.cache
+/Users/Abhishek/DotNetProjects/Comments/obj/Debug/net7.0/Comments.dll
+/Users/Abhishek/DotNetProjects/Comments/obj/Debug/net7.0/refint/Comments.dll
+/Users/Abhishek/DotNetProjects/Comments/obj/Debug/net7.0/Comments.pdb
+/Users/Abhishek/DotNetProjects/Comments/obj/Debug/net7.0/Comments.genruntimeconfig.cache
+/Users/Abhishek/DotNetProjects/Comments/obj/Debug/net7.0/ref/Comments.dll

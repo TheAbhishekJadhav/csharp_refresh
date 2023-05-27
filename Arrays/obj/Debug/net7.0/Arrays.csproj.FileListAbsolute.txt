@@ -1,0 +1,15 @@
+/Users/Abhishek/DotNetProjects/Arrays/bin/Debug/net7.0/Arrays
+/Users/Abhishek/DotNetProjects/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/Users/Abhishek/DotNetProjects/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/Users/Abhishek/DotNetProjects/Arrays/bin/Debug/net7.0/Arrays.dll
+/Users/Abhishek/DotNetProjects/Arrays/bin/Debug/net7.0/Arrays.pdb
+/Users/Abhishek/DotNetProjects/Arrays/obj/Debug/net7.0/Arrays.csproj.AssemblyReference.cache
+/Users/Abhishek/DotNetProjects/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Abhishek/DotNetProjects/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/Users/Abhishek/DotNetProjects/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/Users/Abhishek/DotNetProjects/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/Abhishek/DotNetProjects/Arrays/obj/Debug/net7.0/Arrays.dll
+/Users/Abhishek/DotNetProjects/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/Users/Abhishek/DotNetProjects/Arrays/obj/Debug/net7.0/Arrays.pdb
+/Users/Abhishek/DotNetProjects/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/Users/Abhishek/DotNetProjects/Arrays/obj/Debug/net7.0/ref/Arrays.dll

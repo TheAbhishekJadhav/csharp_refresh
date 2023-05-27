@@ -1,0 +1,15 @@
+/Users/Abhishek/DotNetProjects/AddInput/bin/Debug/net7.0/AddInput
+/Users/Abhishek/DotNetProjects/AddInput/bin/Debug/net7.0/AddInput.deps.json
+/Users/Abhishek/DotNetProjects/AddInput/bin/Debug/net7.0/AddInput.runtimeconfig.json
+/Users/Abhishek/DotNetProjects/AddInput/bin/Debug/net7.0/AddInput.dll
+/Users/Abhishek/DotNetProjects/AddInput/bin/Debug/net7.0/AddInput.pdb
+/Users/Abhishek/DotNetProjects/AddInput/obj/Debug/net7.0/AddInput.csproj.AssemblyReference.cache
+/Users/Abhishek/DotNetProjects/AddInput/obj/Debug/net7.0/AddInput.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Abhishek/DotNetProjects/AddInput/obj/Debug/net7.0/AddInput.AssemblyInfoInputs.cache
+/Users/Abhishek/DotNetProjects/AddInput/obj/Debug/net7.0/AddInput.AssemblyInfo.cs
+/Users/Abhishek/DotNetProjects/AddInput/obj/Debug/net7.0/AddInput.csproj.CoreCompileInputs.cache
+/Users/Abhishek/DotNetProjects/AddInput/obj/Debug/net7.0/AddInput.dll
+/Users/Abhishek/DotNetProjects/AddInput/obj/Debug/net7.0/refint/AddInput.dll
+/Users/Abhishek/DotNetProjects/AddInput/obj/Debug/net7.0/AddInput.pdb
+/Users/Abhishek/DotNetProjects/AddInput/obj/Debug/net7.0/AddInput.genruntimeconfig.cache
+/Users/Abhishek/DotNetProjects/AddInput/obj/Debug/net7.0/ref/AddInput.dll

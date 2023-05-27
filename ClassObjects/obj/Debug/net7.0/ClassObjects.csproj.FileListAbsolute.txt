@@ -1,0 +1,15 @@
+/Users/Abhishek/DotNetProjects/ClassObjects/bin/Debug/net7.0/ClassObjects
+/Users/Abhishek/DotNetProjects/ClassObjects/bin/Debug/net7.0/ClassObjects.deps.json
+/Users/Abhishek/DotNetProjects/ClassObjects/bin/Debug/net7.0/ClassObjects.runtimeconfig.json
+/Users/Abhishek/DotNetProjects/ClassObjects/bin/Debug/net7.0/ClassObjects.dll
+/Users/Abhishek/DotNetProjects/ClassObjects/bin/Debug/net7.0/ClassObjects.pdb
+/Users/Abhishek/DotNetProjects/ClassObjects/obj/Debug/net7.0/ClassObjects.csproj.AssemblyReference.cache
+/Users/Abhishek/DotNetProjects/ClassObjects/obj/Debug/net7.0/ClassObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Abhishek/DotNetProjects/ClassObjects/obj/Debug/net7.0/ClassObjects.AssemblyInfoInputs.cache
+/Users/Abhishek/DotNetProjects/ClassObjects/obj/Debug/net7.0/ClassObjects.AssemblyInfo.cs
+/Users/Abhishek/DotNetProjects/ClassObjects/obj/Debug/net7.0/ClassObjects.csproj.CoreCompileInputs.cache
+/Users/Abhishek/DotNetProjects/ClassObjects/obj/Debug/net7.0/ClassObjects.dll
+/Users/Abhishek/DotNetProjects/ClassObjects/obj/Debug/net7.0/refint/ClassObjects.dll
+/Users/Abhishek/DotNetProjects/ClassObjects/obj/Debug/net7.0/ClassObjects.pdb
+/Users/Abhishek/DotNetProjects/ClassObjects/obj/Debug/net7.0/ClassObjects.genruntimeconfig.cache
+/Users/Abhishek/DotNetProjects/ClassObjects/obj/Debug/net7.0/ref/ClassObjects.dll
