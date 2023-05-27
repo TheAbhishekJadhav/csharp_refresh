@@ -1,0 +1,15 @@
+/Users/Abhishek/DotNetProjects/Exceptions/bin/Debug/net7.0/Exceptions
+/Users/Abhishek/DotNetProjects/Exceptions/bin/Debug/net7.0/Exceptions.deps.json
+/Users/Abhishek/DotNetProjects/Exceptions/bin/Debug/net7.0/Exceptions.runtimeconfig.json
+/Users/Abhishek/DotNetProjects/Exceptions/bin/Debug/net7.0/Exceptions.dll
+/Users/Abhishek/DotNetProjects/Exceptions/bin/Debug/net7.0/Exceptions.pdb
+/Users/Abhishek/DotNetProjects/Exceptions/obj/Debug/net7.0/Exceptions.csproj.AssemblyReference.cache
+/Users/Abhishek/DotNetProjects/Exceptions/obj/Debug/net7.0/Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Abhishek/DotNetProjects/Exceptions/obj/Debug/net7.0/Exceptions.AssemblyInfoInputs.cache
+/Users/Abhishek/DotNetProjects/Exceptions/obj/Debug/net7.0/Exceptions.AssemblyInfo.cs
+/Users/Abhishek/DotNetProjects/Exceptions/obj/Debug/net7.0/Exceptions.csproj.CoreCompileInputs.cache
+/Users/Abhishek/DotNetProjects/Exceptions/obj/Debug/net7.0/Exceptions.dll
+/Users/Abhishek/DotNetProjects/Exceptions/obj/Debug/net7.0/refint/Exceptions.dll
+/Users/Abhishek/DotNetProjects/Exceptions/obj/Debug/net7.0/Exceptions.pdb
+/Users/Abhishek/DotNetProjects/Exceptions/obj/Debug/net7.0/Exceptions.genruntimeconfig.cache
+/Users/Abhishek/DotNetProjects/Exceptions/obj/Debug/net7.0/ref/Exceptions.dll

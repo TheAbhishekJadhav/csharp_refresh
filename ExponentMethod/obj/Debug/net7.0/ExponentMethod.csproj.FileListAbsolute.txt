@@ -1,0 +1,15 @@
+/Users/Abhishek/DotNetProjects/ExponentMethod/bin/Debug/net7.0/ExponentMethod
+/Users/Abhishek/DotNetProjects/ExponentMethod/bin/Debug/net7.0/ExponentMethod.deps.json
+/Users/Abhishek/DotNetProjects/ExponentMethod/bin/Debug/net7.0/ExponentMethod.runtimeconfig.json
+/Users/Abhishek/DotNetProjects/ExponentMethod/bin/Debug/net7.0/ExponentMethod.dll
+/Users/Abhishek/DotNetProjects/ExponentMethod/bin/Debug/net7.0/ExponentMethod.pdb
+/Users/Abhishek/DotNetProjects/ExponentMethod/obj/Debug/net7.0/ExponentMethod.csproj.AssemblyReference.cache
+/Users/Abhishek/DotNetProjects/ExponentMethod/obj/Debug/net7.0/ExponentMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Abhishek/DotNetProjects/ExponentMethod/obj/Debug/net7.0/ExponentMethod.AssemblyInfoInputs.cache
+/Users/Abhishek/DotNetProjects/ExponentMethod/obj/Debug/net7.0/ExponentMethod.AssemblyInfo.cs
+/Users/Abhishek/DotNetProjects/ExponentMethod/obj/Debug/net7.0/ExponentMethod.csproj.CoreCompileInputs.cache
+/Users/Abhishek/DotNetProjects/ExponentMethod/obj/Debug/net7.0/ExponentMethod.dll
+/Users/Abhishek/DotNetProjects/ExponentMethod/obj/Debug/net7.0/refint/ExponentMethod.dll
+/Users/Abhishek/DotNetProjects/ExponentMethod/obj/Debug/net7.0/ExponentMethod.pdb
+/Users/Abhishek/DotNetProjects/ExponentMethod/obj/Debug/net7.0/ExponentMethod.genruntimeconfig.cache
+/Users/Abhishek/DotNetProjects/ExponentMethod/obj/Debug/net7.0/ref/ExponentMethod.dll
