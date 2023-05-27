@@ -1,0 +1,15 @@
+/Users/Abhishek/DotNetProjects/GetterSetter/bin/Debug/net7.0/GetterSetter
+/Users/Abhishek/DotNetProjects/GetterSetter/bin/Debug/net7.0/GetterSetter.deps.json
+/Users/Abhishek/DotNetProjects/GetterSetter/bin/Debug/net7.0/GetterSetter.runtimeconfig.json
+/Users/Abhishek/DotNetProjects/GetterSetter/bin/Debug/net7.0/GetterSetter.dll
+/Users/Abhishek/DotNetProjects/GetterSetter/bin/Debug/net7.0/GetterSetter.pdb
+/Users/Abhishek/DotNetProjects/GetterSetter/obj/Debug/net7.0/GetterSetter.csproj.AssemblyReference.cache
+/Users/Abhishek/DotNetProjects/GetterSetter/obj/Debug/net7.0/GetterSetter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Abhishek/DotNetProjects/GetterSetter/obj/Debug/net7.0/GetterSetter.AssemblyInfoInputs.cache
+/Users/Abhishek/DotNetProjects/GetterSetter/obj/Debug/net7.0/GetterSetter.AssemblyInfo.cs
+/Users/Abhishek/DotNetProjects/GetterSetter/obj/Debug/net7.0/GetterSetter.csproj.CoreCompileInputs.cache
+/Users/Abhishek/DotNetProjects/GetterSetter/obj/Debug/net7.0/GetterSetter.dll
+/Users/Abhishek/DotNetProjects/GetterSetter/obj/Debug/net7.0/refint/GetterSetter.dll
+/Users/Abhishek/DotNetProjects/GetterSetter/obj/Debug/net7.0/GetterSetter.pdb
+/Users/Abhishek/DotNetProjects/GetterSetter/obj/Debug/net7.0/GetterSetter.genruntimeconfig.cache
+/Users/Abhishek/DotNetProjects/GetterSetter/obj/Debug/net7.0/ref/GetterSetter.dll
