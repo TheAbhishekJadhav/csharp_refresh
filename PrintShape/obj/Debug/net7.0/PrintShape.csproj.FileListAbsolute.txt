@@ -1,0 +1,15 @@
+/Users/Abhishek/DotNetProjects/PrintShape/bin/Debug/net7.0/PrintShape
+/Users/Abhishek/DotNetProjects/PrintShape/bin/Debug/net7.0/PrintShape.deps.json
+/Users/Abhishek/DotNetProjects/PrintShape/bin/Debug/net7.0/PrintShape.runtimeconfig.json
+/Users/Abhishek/DotNetProjects/PrintShape/bin/Debug/net7.0/PrintShape.dll
+/Users/Abhishek/DotNetProjects/PrintShape/bin/Debug/net7.0/PrintShape.pdb
+/Users/Abhishek/DotNetProjects/PrintShape/obj/Debug/net7.0/PrintShape.csproj.AssemblyReference.cache
+/Users/Abhishek/DotNetProjects/PrintShape/obj/Debug/net7.0/PrintShape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Abhishek/DotNetProjects/PrintShape/obj/Debug/net7.0/PrintShape.AssemblyInfoInputs.cache
+/Users/Abhishek/DotNetProjects/PrintShape/obj/Debug/net7.0/PrintShape.AssemblyInfo.cs
+/Users/Abhishek/DotNetProjects/PrintShape/obj/Debug/net7.0/PrintShape.csproj.CoreCompileInputs.cache
+/Users/Abhishek/DotNetProjects/PrintShape/obj/Debug/net7.0/PrintShape.dll
+/Users/Abhishek/DotNetProjects/PrintShape/obj/Debug/net7.0/refint/PrintShape.dll
+/Users/Abhishek/DotNetProjects/PrintShape/obj/Debug/net7.0/PrintShape.pdb
+/Users/Abhishek/DotNetProjects/PrintShape/obj/Debug/net7.0/PrintShape.genruntimeconfig.cache
+/Users/Abhishek/DotNetProjects/PrintShape/obj/Debug/net7.0/ref/PrintShape.dll

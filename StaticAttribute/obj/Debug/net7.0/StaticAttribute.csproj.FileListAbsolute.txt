@@ -1,0 +1,15 @@
+/Users/Abhishek/DotNetProjects/StaticAttribute/bin/Debug/net7.0/StaticAttribute
+/Users/Abhishek/DotNetProjects/StaticAttribute/bin/Debug/net7.0/StaticAttribute.deps.json
+/Users/Abhishek/DotNetProjects/StaticAttribute/bin/Debug/net7.0/StaticAttribute.runtimeconfig.json
+/Users/Abhishek/DotNetProjects/StaticAttribute/bin/Debug/net7.0/StaticAttribute.dll
+/Users/Abhishek/DotNetProjects/StaticAttribute/bin/Debug/net7.0/StaticAttribute.pdb
+/Users/Abhishek/DotNetProjects/StaticAttribute/obj/Debug/net7.0/StaticAttribute.csproj.AssemblyReference.cache
+/Users/Abhishek/DotNetProjects/StaticAttribute/obj/Debug/net7.0/StaticAttribute.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Abhishek/DotNetProjects/StaticAttribute/obj/Debug/net7.0/StaticAttribute.AssemblyInfoInputs.cache
+/Users/Abhishek/DotNetProjects/StaticAttribute/obj/Debug/net7.0/StaticAttribute.AssemblyInfo.cs
+/Users/Abhishek/DotNetProjects/StaticAttribute/obj/Debug/net7.0/StaticAttribute.csproj.CoreCompileInputs.cache
+/Users/Abhishek/DotNetProjects/StaticAttribute/obj/Debug/net7.0/StaticAttribute.dll
+/Users/Abhishek/DotNetProjects/StaticAttribute/obj/Debug/net7.0/refint/StaticAttribute.dll
+/Users/Abhishek/DotNetProjects/StaticAttribute/obj/Debug/net7.0/StaticAttribute.pdb
+/Users/Abhishek/DotNetProjects/StaticAttribute/obj/Debug/net7.0/StaticAttribute.genruntimeconfig.cache
+/Users/Abhishek/DotNetProjects/StaticAttribute/obj/Debug/net7.0/ref/StaticAttribute.dll
