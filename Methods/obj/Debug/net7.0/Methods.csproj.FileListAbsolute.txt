@@ -1,0 +1,15 @@
+/Users/Abhishek/DotNetProjects/Methods/bin/Debug/net7.0/Methods
+/Users/Abhishek/DotNetProjects/Methods/bin/Debug/net7.0/Methods.deps.json
+/Users/Abhishek/DotNetProjects/Methods/bin/Debug/net7.0/Methods.runtimeconfig.json
+/Users/Abhishek/DotNetProjects/Methods/bin/Debug/net7.0/Methods.dll
+/Users/Abhishek/DotNetProjects/Methods/bin/Debug/net7.0/Methods.pdb
+/Users/Abhishek/DotNetProjects/Methods/obj/Debug/net7.0/Methods.csproj.AssemblyReference.cache
+/Users/Abhishek/DotNetProjects/Methods/obj/Debug/net7.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Abhishek/DotNetProjects/Methods/obj/Debug/net7.0/Methods.AssemblyInfoInputs.cache
+/Users/Abhishek/DotNetProjects/Methods/obj/Debug/net7.0/Methods.AssemblyInfo.cs
+/Users/Abhishek/DotNetProjects/Methods/obj/Debug/net7.0/Methods.csproj.CoreCompileInputs.cache
+/Users/Abhishek/DotNetProjects/Methods/obj/Debug/net7.0/Methods.dll
+/Users/Abhishek/DotNetProjects/Methods/obj/Debug/net7.0/refint/Methods.dll
+/Users/Abhishek/DotNetProjects/Methods/obj/Debug/net7.0/Methods.pdb
+/Users/Abhishek/DotNetProjects/Methods/obj/Debug/net7.0/Methods.genruntimeconfig.cache
+/Users/Abhishek/DotNetProjects/Methods/obj/Debug/net7.0/ref/Methods.dll

@@ -1,0 +1,15 @@
+/Users/Abhishek/DotNetProjects/MadLibs/bin/Debug/net7.0/MadLibs
+/Users/Abhishek/DotNetProjects/MadLibs/bin/Debug/net7.0/MadLibs.deps.json
+/Users/Abhishek/DotNetProjects/MadLibs/bin/Debug/net7.0/MadLibs.runtimeconfig.json
+/Users/Abhishek/DotNetProjects/MadLibs/bin/Debug/net7.0/MadLibs.dll
+/Users/Abhishek/DotNetProjects/MadLibs/bin/Debug/net7.0/MadLibs.pdb
+/Users/Abhishek/DotNetProjects/MadLibs/obj/Debug/net7.0/MadLibs.csproj.AssemblyReference.cache
+/Users/Abhishek/DotNetProjects/MadLibs/obj/Debug/net7.0/MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Abhishek/DotNetProjects/MadLibs/obj/Debug/net7.0/MadLibs.AssemblyInfoInputs.cache
+/Users/Abhishek/DotNetProjects/MadLibs/obj/Debug/net7.0/MadLibs.AssemblyInfo.cs
+/Users/Abhishek/DotNetProjects/MadLibs/obj/Debug/net7.0/MadLibs.csproj.CoreCompileInputs.cache
+/Users/Abhishek/DotNetProjects/MadLibs/obj/Debug/net7.0/MadLibs.dll
+/Users/Abhishek/DotNetProjects/MadLibs/obj/Debug/net7.0/refint/MadLibs.dll
+/Users/Abhishek/DotNetProjects/MadLibs/obj/Debug/net7.0/MadLibs.pdb
+/Users/Abhishek/DotNetProjects/MadLibs/obj/Debug/net7.0/MadLibs.genruntimeconfig.cache
+/Users/Abhishek/DotNetProjects/MadLibs/obj/Debug/net7.0/ref/MadLibs.dll

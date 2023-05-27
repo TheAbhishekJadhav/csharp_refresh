@@ -1,0 +1,15 @@
+/Users/Abhishek/DotNetProjects/Numbers/bin/Debug/net7.0/Numbers
+/Users/Abhishek/DotNetProjects/Numbers/bin/Debug/net7.0/Numbers.deps.json
+/Users/Abhishek/DotNetProjects/Numbers/bin/Debug/net7.0/Numbers.runtimeconfig.json
+/Users/Abhishek/DotNetProjects/Numbers/bin/Debug/net7.0/Numbers.dll
+/Users/Abhishek/DotNetProjects/Numbers/bin/Debug/net7.0/Numbers.pdb
+/Users/Abhishek/DotNetProjects/Numbers/obj/Debug/net7.0/Numbers.csproj.AssemblyReference.cache
+/Users/Abhishek/DotNetProjects/Numbers/obj/Debug/net7.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Abhishek/DotNetProjects/Numbers/obj/Debug/net7.0/Numbers.AssemblyInfoInputs.cache
+/Users/Abhishek/DotNetProjects/Numbers/obj/Debug/net7.0/Numbers.AssemblyInfo.cs
+/Users/Abhishek/DotNetProjects/Numbers/obj/Debug/net7.0/Numbers.csproj.CoreCompileInputs.cache
+/Users/Abhishek/DotNetProjects/Numbers/obj/Debug/net7.0/Numbers.dll
+/Users/Abhishek/DotNetProjects/Numbers/obj/Debug/net7.0/refint/Numbers.dll
+/Users/Abhishek/DotNetProjects/Numbers/obj/Debug/net7.0/Numbers.pdb
+/Users/Abhishek/DotNetProjects/Numbers/obj/Debug/net7.0/Numbers.genruntimeconfig.cache
+/Users/Abhishek/DotNetProjects/Numbers/obj/Debug/net7.0/ref/Numbers.dll
