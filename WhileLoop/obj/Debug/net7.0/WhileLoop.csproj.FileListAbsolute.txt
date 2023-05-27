@@ -1,0 +1,15 @@
+/Users/Abhishek/DotNetProjects/WhileLoop/bin/Debug/net7.0/WhileLoop
+/Users/Abhishek/DotNetProjects/WhileLoop/bin/Debug/net7.0/WhileLoop.deps.json
+/Users/Abhishek/DotNetProjects/WhileLoop/bin/Debug/net7.0/WhileLoop.runtimeconfig.json
+/Users/Abhishek/DotNetProjects/WhileLoop/bin/Debug/net7.0/WhileLoop.dll
+/Users/Abhishek/DotNetProjects/WhileLoop/bin/Debug/net7.0/WhileLoop.pdb
+/Users/Abhishek/DotNetProjects/WhileLoop/obj/Debug/net7.0/WhileLoop.csproj.AssemblyReference.cache
+/Users/Abhishek/DotNetProjects/WhileLoop/obj/Debug/net7.0/WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Abhishek/DotNetProjects/WhileLoop/obj/Debug/net7.0/WhileLoop.AssemblyInfoInputs.cache
+/Users/Abhishek/DotNetProjects/WhileLoop/obj/Debug/net7.0/WhileLoop.AssemblyInfo.cs
+/Users/Abhishek/DotNetProjects/WhileLoop/obj/Debug/net7.0/WhileLoop.csproj.CoreCompileInputs.cache
+/Users/Abhishek/DotNetProjects/WhileLoop/obj/Debug/net7.0/WhileLoop.dll
+/Users/Abhishek/DotNetProjects/WhileLoop/obj/Debug/net7.0/refint/WhileLoop.dll
+/Users/Abhishek/DotNetProjects/WhileLoop/obj/Debug/net7.0/WhileLoop.pdb
+/Users/Abhishek/DotNetProjects/WhileLoop/obj/Debug/net7.0/WhileLoop.genruntimeconfig.cache
+/Users/Abhishek/DotNetProjects/WhileLoop/obj/Debug/net7.0/ref/WhileLoop.dll
