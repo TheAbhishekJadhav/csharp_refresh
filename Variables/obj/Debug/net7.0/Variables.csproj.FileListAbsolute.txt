@@ -1,0 +1,15 @@
+/Users/Abhishek/DotNetProjects/Variables/bin/Debug/net7.0/Variables
+/Users/Abhishek/DotNetProjects/Variables/bin/Debug/net7.0/Variables.deps.json
+/Users/Abhishek/DotNetProjects/Variables/bin/Debug/net7.0/Variables.runtimeconfig.json
+/Users/Abhishek/DotNetProjects/Variables/bin/Debug/net7.0/Variables.dll
+/Users/Abhishek/DotNetProjects/Variables/bin/Debug/net7.0/Variables.pdb
+/Users/Abhishek/DotNetProjects/Variables/obj/Debug/net7.0/Variables.csproj.AssemblyReference.cache
+/Users/Abhishek/DotNetProjects/Variables/obj/Debug/net7.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Abhishek/DotNetProjects/Variables/obj/Debug/net7.0/Variables.AssemblyInfoInputs.cache
+/Users/Abhishek/DotNetProjects/Variables/obj/Debug/net7.0/Variables.AssemblyInfo.cs
+/Users/Abhishek/DotNetProjects/Variables/obj/Debug/net7.0/Variables.csproj.CoreCompileInputs.cache
+/Users/Abhishek/DotNetProjects/Variables/obj/Debug/net7.0/Variables.dll
+/Users/Abhishek/DotNetProjects/Variables/obj/Debug/net7.0/refint/Variables.dll
+/Users/Abhishek/DotNetProjects/Variables/obj/Debug/net7.0/Variables.pdb
+/Users/Abhishek/DotNetProjects/Variables/obj/Debug/net7.0/Variables.genruntimeconfig.cache
+/Users/Abhishek/DotNetProjects/Variables/obj/Debug/net7.0/ref/Variables.dll

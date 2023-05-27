@@ -1,0 +1,15 @@
+/Users/Abhishek/DotNetProjects/TwoDArray/bin/Debug/net7.0/TwoDArray
+/Users/Abhishek/DotNetProjects/TwoDArray/bin/Debug/net7.0/TwoDArray.deps.json
+/Users/Abhishek/DotNetProjects/TwoDArray/bin/Debug/net7.0/TwoDArray.runtimeconfig.json
+/Users/Abhishek/DotNetProjects/TwoDArray/bin/Debug/net7.0/TwoDArray.dll
+/Users/Abhishek/DotNetProjects/TwoDArray/bin/Debug/net7.0/TwoDArray.pdb
+/Users/Abhishek/DotNetProjects/TwoDArray/obj/Debug/net7.0/TwoDArray.csproj.AssemblyReference.cache
+/Users/Abhishek/DotNetProjects/TwoDArray/obj/Debug/net7.0/TwoDArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Abhishek/DotNetProjects/TwoDArray/obj/Debug/net7.0/TwoDArray.AssemblyInfoInputs.cache
+/Users/Abhishek/DotNetProjects/TwoDArray/obj/Debug/net7.0/TwoDArray.AssemblyInfo.cs
+/Users/Abhishek/DotNetProjects/TwoDArray/obj/Debug/net7.0/TwoDArray.csproj.CoreCompileInputs.cache
+/Users/Abhishek/DotNetProjects/TwoDArray/obj/Debug/net7.0/TwoDArray.dll
+/Users/Abhishek/DotNetProjects/TwoDArray/obj/Debug/net7.0/refint/TwoDArray.dll
+/Users/Abhishek/DotNetProjects/TwoDArray/obj/Debug/net7.0/TwoDArray.pdb
+/Users/Abhishek/DotNetProjects/TwoDArray/obj/Debug/net7.0/TwoDArray.genruntimeconfig.cache
+/Users/Abhishek/DotNetProjects/TwoDArray/obj/Debug/net7.0/ref/TwoDArray.dll
